@@ -68,9 +68,13 @@ Soy un desarrollador full-stack apasionado por crear soluciones digitales innova
   - Participación en Cancún con reto empresarial
   - Certificado de finalista
 
-### 📊 Estadísticas
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PavoAyala&show_icons=true&theme=gruvbox&rank_icon=github)
+![Streak](https://streak-stats.demolab.com?user=PavoAyala&theme=gruvbox)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PavoAyala&theme=gruvbox)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PavoAyala&theme=github-compact)
 
 ### 🎮 Proyectos Destacados
 
