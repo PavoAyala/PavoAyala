@@ -76,6 +76,9 @@ Soy un desarrollador full-stack apasionado por crear soluciones digitales innova
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PavoAyala&theme=github-compact)
 
+![Top](h![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavoAyala&theme=tokyonight)
+
+
 ### 🎮 Proyectos Destacados
 
 - [HangMangGame](https://github.com/PavoAyala/HangMangGame) - Reto 5 programación orientada a objetos
